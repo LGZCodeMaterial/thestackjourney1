@@ -29,7 +29,7 @@ const Faq = props => {
                         {faqsContent.map((content, index) => (
                             <ExpansionPanel key={index}>
                                 <ExpansionPanelSummary expandIcon={<ExpandMoreIcon />}>
-                                <Typography className={classes.heading}>{content.question}</Typography>
+                                <Typography className={classes.heading}>{index+1}. {content.question}</Typography>
                                 </ExpansionPanelSummary>
                                 <ExpansionPanelDetails>
                                     <div className={classes.faqContent}>
