@@ -1,0 +1,14 @@
+dashboard for admin
+-reviews
+-notebook for adding new cards
+-quote manager
+-faqs for adding new faqs
+-personal blog
+ -adding images to blog
+ -adding images to achievements
+
+-contact
+ adding google maps
+ adding contact form
+ server side handling contact form
+ 
